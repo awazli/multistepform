@@ -1,0 +1,145 @@
+==========================================
+Edumaster Front Website
+==========================================
+
+1) Main menu should be active
+2) Footer Top Section
+ - About
+   - Remove Links
+ - Services
+ - News & Updates
+ - Contact Us
+ 
+3) Footer Bottom Section
+ - Copyright Information
+ - Powered by Information 
+
+
+==========================================
+Main Menu
+==========================================
+Home
+About Us
+Services
+ - Transportation
+ - Food (Canteen)
+
+News & Updates
+
+Gallery
+ - Photo Gallery
+ - Video Gallery
+
+Our Staff
+ - Trustee
+ - Principle
+ - Vice Principle
+ - Supervisor
+ - Teachers
+
+FAQ
+Admission Inquiry
+Contact Us
+ - Inquiry should be send on school email address
+Login
+
+==========================================
+Home Page Standard Content
+==========================================
+1) Home Slider 
+ - Bullet should be dynamic
+2) Features Activities
+3) Remove Broucher (Play as you learn) Section
+4) Our Portfolio (Remove on Home Page)
+ - Make it Restructurised (Listing type formate)
+ - Photo Album Grid View or Single Image View
+
+5) Remove Orange Section after Portfolio
+6) Remove Our Staff Section
+
+==========================================
+About Us Page Standard Content
+==========================================
+1) Slider
+2) Heading, Description and Image
+ - Multiple Images Slider Display
+3) Remove Read More Button
+4) Remove Our Teachers Section
+5) Topics of Content
+ - Opening Ceremony
+ - Academic History
+ - Our Goal
+
+
+==========================================
+Services Page Standard Content
+==========================================
+1) Top Page Heading should be standard in all pages
+   - Remove Existing Heading with bg
+2) Title and Description
+3) Remove Accordian
+4) Remove Admission Form Section
+
+
+==========================================
+News & Update Page Standard Content
+==========================================
+1) Title, Date, Image, Description
+2) Pagination
+
+==========================================
+Gallery Page Standard Content
+==========================================
+1) Photo Gallery
+ => Photo Album Page
+  - Photo Album Listing
+  - Pagination
+     * Single Album Detail Page
+        - Photos Listing
+        - Pagination
+        - Onclick Popup View  
+
+2) Video Gallery
+ => Video Album Page
+  - Video Album Listing
+  - Pagination
+     * Single Album Detail Page
+        - Video Listing
+        - Pagination
+        - Onclick Popup View  
+
+==========================================
+Our Staff Page Standard Content
+==========================================
+1) Designation/Post wise Listing
+ - Trustee
+ - Principle
+ - Vice Principle
+ - Supervisor
+ - Teachers
+2) Image, Name, Post
+3) Remove Subordinate Staff Section 
+
+==========================================
+FAQ Page Standard Content
+==========================================
+1) Heading and Description (Accordian type formate)
+
+==========================================
+Admission Inquiry Page Standard Content
+==========================================
+1) Admission Inquiry Form
+
+==========================================
+Contact us Page Standard Content
+==========================================
+1) Google Map
+2) General Inquiry Form
+3) Remove Social Links
+
+
+current_page_item
+
+
+
+
